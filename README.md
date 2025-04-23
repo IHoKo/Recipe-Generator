@@ -1,4 +1,4 @@
-[Mirzaghasemi.txt](https://github.com/user-attachments/files/19869379/Mirzaghasemi.txt)# 🍽️ AI-Powered Recipe Generator
+# 🍽️ AI-Powered Recipe Generator
 
 This Python application uses OpenAI’s GPT and DALL·E APIs to create detailed recipes, cultural backgrounds, and high-quality dish images—all based on either a **dish name** or a list of **ingredients** you provide. Perfect for food enthusiasts, hobbyist chefs, and anyone curious about AI-powered creativity in the kitchen.
 
